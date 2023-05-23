@@ -1,4 +1,4 @@
 # best-repo
 Testing Git-test
 print("Santhosh")
-Conflict2
+Conflict_resolved
